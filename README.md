@@ -1,2 +1,2 @@
-# learn_github
-This repository is only for learning of Github
+# share
+日常分享
